@@ -17,7 +17,7 @@
 int main()
 {
     //input variables
-    std::string sharcMasterPath = "/Users/Lukas/Documents/MD/5.Semester/Musiklehre/Sprachkomposition/sharc-angular-master";
+    std::string sharcMasterPath = "/sharc-angular-master";
     float freq = 325.3;
     std::string voice = "bass", formant = "o";
     int numFormant = 1;
